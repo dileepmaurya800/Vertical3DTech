@@ -1,0 +1,9 @@
+# Ignore interview and code walkthrough documentation
+INTERVIEW_AND_CODE_WALKTHROUGH.md
+INTERVIEW_AND_CODE_WALKTHROUGH_HINDI.md
+
+# Standard build and dependency ignores (recommended if not already present)
+node_modules/
+.next/
+dist/
+build/
